@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komaldhiman07/node-jenkins-demo.git"
+  },
+  "author": "Komal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komaldhiman07/node-jenkins-demo/issues"
+  },
+  "homepage": "https://github.com/komaldhiman07/node-jenkins-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
